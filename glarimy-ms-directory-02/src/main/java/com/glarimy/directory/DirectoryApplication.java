@@ -10,4 +10,6 @@ public class DirectoryApplication {
 		SpringApplication.run(DirectoryApplication.class, args);
 	}
 
+
+
 }
